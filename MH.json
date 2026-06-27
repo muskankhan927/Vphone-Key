@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "Musk4n",
+    "password": "dpmods",
+    "expiresAt": "2026-07-01",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "Musk4n",
+    "password": "pass2",
+    "expiresAt": "2026-07-01",
+    "allowOffline": false
+  }
+]
